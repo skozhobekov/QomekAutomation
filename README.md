@@ -1,0 +1,2 @@
+# QomekAutomation
+Автоматизация тестирования Qomek
